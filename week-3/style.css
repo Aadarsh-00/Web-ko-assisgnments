@@ -1,0 +1,29 @@
+*{
+  margin :0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+nav{
+  background-color: rgb(19, 40, 148);
+  padding: 8px 16px;
+  /* display: inline; */
+}
+.navbar{
+  list-style:none;
+  display: flex;
+  gap : 100px;
+  color: white;
+  justify-content: flex-end ;
+  
+}
+
+ul a:hover{
+  text-decoration: none;
+  cursor:auto;
+  color: yellow;
+}
+
+ul a{
+  color: #fff5f5;
+}

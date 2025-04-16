@@ -1,0 +1,14 @@
+.text-red{
+  color: red;
+}
+
+.bg{
+  background-color: rgb(127, 28, 166);
+  
+}
+
+.img1{
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+}
